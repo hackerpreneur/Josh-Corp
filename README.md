@@ -7,7 +7,7 @@ Github is a service that hosts git repositories, our projects application source
 ## Step one cloning: 
 Cloning a repo is the process of downloading the entire project so you have a copy to work and build from on your computer.
 ```
-git@github.com:hackerpreneur/Josh-Corp.git
+git clone git@github.com:hackerpreneur/Josh-Corp.git
 ```
  
 ## Step two Creating branches:
